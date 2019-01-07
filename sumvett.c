@@ -19,7 +19,7 @@ int main() {
 	m = s /3;
 
 	printf("Somma: %d\n", s);
-	printf("Media: %f\n", m);
+	printf("Media: %.1f\n", m);
 
 	return 0;
 }
