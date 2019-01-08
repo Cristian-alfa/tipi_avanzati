@@ -16,7 +16,7 @@ int main() {
 	printf("numbers[2] = %d\n", v[2]);
 	
 	s = v[0] +v[1] +v[2];
-	m = s /3;
+	m = s /3.0;
 
 	printf("Somma: %d\n", s);
 	printf("Media: %.1f\n", m);
